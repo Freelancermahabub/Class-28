@@ -1,0 +1,26 @@
+ul{
+    text-align: right;
+}
+
+ul li{
+    display: inline-block;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 15px;
+
+}
+ul li a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.para{
+    padding-left: 100px;
+    float
+}
